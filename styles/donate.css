@@ -60,7 +60,7 @@ main {
 }
 
 section {
-    margin-top: 10px;
+    margin-top: 130px;
 }
 
 /* about section styles */
@@ -114,4 +114,42 @@ section {
     font-size: 18px;
     color: #B3B3B3;
     
+}
+
+/* Our-Donate-Plan  */
+
+.our-donate-plan-description {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin: 50px 130px;
+    line-height: 28px;   
+}
+
+.donate-container {
+    display: flex;
+    gap: 24px;
+}
+
+.donates {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+    
+}
+
+.donate-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #121212;
+}
+
+.donate-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
 }
